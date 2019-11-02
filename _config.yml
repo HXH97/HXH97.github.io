@@ -96,6 +96,6 @@ theme: hexo
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/HXH97/xinghaoBlog.github.io.git
+  repo: https://github.com/HXH97/HXH97.github.io.git
   branch: master #published
   message: message
